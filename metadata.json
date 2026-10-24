@@ -1,0 +1,5 @@
+{
+  "name": "Trisun",
+  "description": "A full-stack capable Real Estate application featuring property listings, search filters, property details, and a comprehensive admin dashboard for managing assets and enquiries.",
+  "requestFramePermissions": []
+}
